@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: pysofa3
+Version: 0.0.1
+Summary: A library of functions on astronomy
+Home-page: https://github.com/YYjoke/pysofa.git
+Author: LiYangLiu
+Author-email: 895479558@qq.com
+License: UNKNOWN
+Description: ## Licensing
+        
+        *pysofa3* not endorsed by the International Astronomical Union. 
+        In addition to *pysofa3*'s MIT license, any use of this module should comply 
+        with SOFA's license and [terms of use](http://www.iausofa.org/copyr.pdf). 
+        Especially, but not exclusively, any published work or commercial products 
+        which includes results achieved by using *pysofa* shall acknowledge that the 
+        SOFA software was used in obtaining those results.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pysofa3/__about__.py
+pysofa3/__init__.py
+pysofa3/sofa.py
+pysofa3.egg-info/PKG-INFO
+pysofa3.egg-info/SOURCES.txt
+pysofa3.egg-info/dependency_links.txt
+pysofa3.egg-info/top_level.txt
